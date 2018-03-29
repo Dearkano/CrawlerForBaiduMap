@@ -1,0 +1,10 @@
+C:\Users\VayneTian\source\repos\BaiduMap\BaiduMap\bin\Debug\BaiduMap.exe.config
+C:\Users\VayneTian\source\repos\BaiduMap\BaiduMap\bin\Debug\BaiduMap.exe
+C:\Users\VayneTian\source\repos\BaiduMap\BaiduMap\bin\Debug\BaiduMap.pdb
+C:\Users\VayneTian\source\repos\BaiduMap\BaiduMap\bin\Debug\Newtonsoft.Json.dll
+C:\Users\VayneTian\source\repos\BaiduMap\BaiduMap\bin\Debug\Newtonsoft.Json.xml
+C:\Users\VayneTian\source\repos\BaiduMap\BaiduMap\obj\Debug\BaiduMap.csprojResolveAssemblyReference.cache
+C:\Users\VayneTian\source\repos\BaiduMap\BaiduMap\obj\Debug\BaiduMap.csproj.CoreCompileInputs.cache
+C:\Users\VayneTian\source\repos\BaiduMap\BaiduMap\obj\Debug\BaiduMap.csproj.CopyComplete
+C:\Users\VayneTian\source\repos\BaiduMap\BaiduMap\obj\Debug\BaiduMap.exe
+C:\Users\VayneTian\source\repos\BaiduMap\BaiduMap\obj\Debug\BaiduMap.pdb

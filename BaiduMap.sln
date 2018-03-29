@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiduMap", "BaiduMap\BaiduMap.csproj", "{BA36AE16-4579-49E1-87CC-E52E0B7B791F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA36AE16-4579-49E1-87CC-E52E0B7B791F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA36AE16-4579-49E1-87CC-E52E0B7B791F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA36AE16-4579-49E1-87CC-E52E0B7B791F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA36AE16-4579-49E1-87CC-E52E0B7B791F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2318F15-39F1-4E54-AAA3-3A8AFA205B6B}
+	EndGlobalSection
+EndGlobal
